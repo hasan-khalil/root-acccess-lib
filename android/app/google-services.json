@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540040685088",
+    "project_id": "firepassword-9e6a2",
+    "storage_bucket": "firepassword-9e6a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540040685088:android:bcd77500bc7bef12f47e45",
+        "android_client_info": {
+          "package_name": "com.example.firepassword"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxCmHpyiuac23iKYPJ9h3jPR9zpA3f-r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
